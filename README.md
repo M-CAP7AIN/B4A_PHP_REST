@@ -1,2 +1,2 @@
 # B4A_PHP_REST
- Simple B4A PHP MYSQLI Example
+ Simple B4A PHP MYSQLi Example
